@@ -1,4 +1,4 @@
-breakfast  ::= <protein> "with" <breakfast> "on the side" 
+<breakfast>  ::= <protein> "with" <breakfast> "on the side" 
 <breakfast>  ::= <protein> 
 <breakfast>  ::= <bread> 
 
